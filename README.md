@@ -13,17 +13,6 @@
 
 * Python 3.x
 * Terminal or command prompt
-  
-## Installation
-
-1.Clone the repository:
-Copy code : git clone https://github.com/username/ATM-python.git
-
-2.Navigate to the project directory:
-Copy code  : cd ATM-python
- 
-3.Run the ATM system:
-Copy code :python atm.py
 
 ## Usage
 
@@ -51,8 +40,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-<div align="justify"> This project was inspired by [mention any inspirations or resources used].
-Thanks to [mention contributors or resources that were particularly helpful]. </div> 
+<div align="justify"> This project was inspired by JustIt Bootcamp.
+Thanks to Jessica our teacher. </div> 
 
 
 
