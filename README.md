@@ -7,7 +7,7 @@
 *  User Authentication: Users can log in using their account number and PIN.
 *  Balance Inquiry: Check account balance before performing transactions.
 *  Withdrawal: Withdraw cash from the account.
-*  Deposit: Deposit cash into the account. <br/>
+*  Deposit: Deposit cash into the account. 
  
 ## Requirements
 
