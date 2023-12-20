@@ -1,12 +1,13 @@
-## [ATM System in Python]
+## ATM System in Python
 
 <div align="justify"> This is a simple ATM system implemented in Python, allowing users to perform basic banking operations such as withdrawing, depositing, and checking balances. </div>   <br/>
 
-## [Features]
-◉ User Authentication: Users can log in using their account number and PIN.
-◉ Balance Inquiry: Check account balance before performing transactions.
-◉ Withdrawal: Withdraw cash from the account.
-◉ Deposit: Deposit cash into the account. <br/>
+## Features
+
+* ◉ User Authentication: Users can log in using their account number and PIN.
+* ◉ Balance Inquiry: Check account balance before performing transactions.
+* ◉ Withdrawal: Withdraw cash from the account.
+* ◉ Deposit: Deposit cash into the account. <br/>
  
 ## [Requirements]
 Python 3.x
