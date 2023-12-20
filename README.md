@@ -16,18 +16,14 @@
   
 ## Installation
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/username/ATM-python.git
-Navigate to the project directory:
-bash
-Copy code
-cd ATM-python
-Run the ATM system:
-bash
-Copy code
-python atm.py
+1.Clone the repository:
+Copy code : git clone https://github.com/username/ATM-python.git
+
+2.Navigate to the project directory:
+Copy code  : cd ATM-python
+ 
+3.Run the ATM system:
+Copy code :python atm.py
 
 ## Usage
 
