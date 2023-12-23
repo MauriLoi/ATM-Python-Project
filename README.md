@@ -4,7 +4,7 @@
 
 ## Features
 
-*  User Authentication: Users can log in using their account number and PIN.
+*  User Authentication: Users can log in using their PIN.
 *  Balance Inquiry: Check account balance before performing transactions.
 *  Withdrawal: Withdraw cash from the account.
 *  Deposit: Deposit cash into the account. 
@@ -16,9 +16,9 @@
 
 ## Usage
 
-1. Run the atm.py file.
+1. Run the ATM-Python-Project.py file.
 2. Follow the on-screen prompts to perform desired actions:
-   * Enter account number and PIN to log in.
+   * Enter the PIN to log in.
    * Choose from the available options (balance inquiry, withdrawal, deposit).
    * Follow the instructions displayed on the screen.
 3. To exit, select the appropriate option or press a designated key combination (e.g., Ctrl + C).
